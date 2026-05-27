@@ -1,11 +1,7 @@
-Hi! This is my *full* CV. 
+"Hello, friend."
 
-I usually tailor it to the position I’m applying for, adding more focused details.
+I'm Leo, I'm a Senior Protein Dreamer 🫡 . 
 
-If you have a position that might interest me or would like to chat, feel free to reach out!
+![CV](cv.png "Leonardo Castorina CV")
 
-# CV
-
-![CV](cv-0.png "Leonardo Castorina CV")
-![CV](cv-1.png "Leonardo Castorina CV")
-
+It is not the protein that folds. It is only yourself.
